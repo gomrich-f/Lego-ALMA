@@ -12,8 +12,6 @@ Run the following command from the `Lego-ALMA` directory:
 python la_main_with_gui.py
 ```
 
-For Raspberry Pi installations, additional setup and service files are provided in `pi_deploy/`.
-
 ## Main Files
 
 - `la_main_with_gui.py` – Main program and GUI entry point

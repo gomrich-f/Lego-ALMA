@@ -6,13 +6,15 @@ The program connects to the serial antenna/controller hardware, processes camera
 
 ## Getting Started
 
+Make sure the Arduino is connected to your device
+
 Run the following command from the `Lego-ALMA` directory:
 
 ```bash
 python la_main_with_gui.py
 ```
 
-For Raspberry Pi installations, additional setup and service files are provided in `pi_deploy/`.
+To use the camera, select `Misc4.jpg` and check the box labeled "Use camera".
 
 ## Main Files
 

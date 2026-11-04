@@ -6,7 +6,7 @@ The program connects to the serial antenna/controller hardware, processes camera
 
 ## Getting Started
 
-Make sure the Arduino is connected to your device
+Make sure the Arduino is connected to your device. Some antennas need to be rotated so that the magnet at the bottom can be detected.
 
 Run the following command from the `Lego-ALMA` directory:
 

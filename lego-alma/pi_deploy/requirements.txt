@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+astropy
+Pillow
+opencv-python
+pyserial
+tqdm
+tenacity
+# decawave_ble (likely custom; see README if not on PyPI)
